@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089026913072",
+    "project_id": "doctor-app-a45d1",
+    "storage_bucket": "doctor-app-a45d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089026913072:android:d551cb105e38a721364ef5",
+        "android_client_info": {
+          "package_name": "com.opulence.doctorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089026913072-td7cjibslumk5cqkd1uc9076jq02gvav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxRn5Jc-e_r33PEIW6wdvwiFcG8epJaMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089026913072-td7cjibslumk5cqkd1uc9076jq02gvav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
